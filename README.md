@@ -411,12 +411,6 @@ Versão simplificada da arquitetura do módulo UART:
 <strong> Figura X: Versão simplificada da arquitetura do módulo UART</strong>
 </p>
 
-<p align="center">
-  <img src="img/total64.png" width = "600" />
-</p>
-<p align="center">
-<strong> Figura X: Versão simplificada da arquitetura do módulo UART para 64 bits</strong>
-
 </div>
 
 <div id="comunPross">
@@ -430,12 +424,7 @@ Segue a versão simplificada da comunicação entre o processador e o ESP8266 12
 <p align="center">
 <strong> Figura X: Versão simplificada da comunicação entre o processador e o ESP8266 12e</strong>
 
-<p align="center">
-  <img src="img/arqTo64.png" width = "600" />
-</p>
-<p align="center">
-<strong> Figura X: Versão simplificada da comunicação entre o processador e o ESP8266 12e para 64 bits</strong>
-</div>
+
 
 Para facilitar a visualização, segue um diagrama de sequência que ilustra a comunicação entre o processador e o ESP8266 12e com os comandos AT para realizar a conexão Wi-Fi e a comunicação TCP/IP:
 
